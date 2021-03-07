@@ -21,6 +21,7 @@
 <hr>
 <p align=center>
  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=adicadi&show_icons=true&theme=gotham">
+  
 <br><p align="right">![](https://visitor-badge.laobi.icu/badge?page_id=adicadi.adicadi)<br>
 
  
