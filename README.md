@@ -18,8 +18,9 @@
   📫 How to reach me: <a href="mailto: adicadi158@gmail.com">adicadi158@gmail.com</a>
 </p>
 
-![adicadi's github stats](https://github-readme-stats.vercel.app/api?username=adicadi&show_icons=true&line_height=21&theme=tokyonight&hide_border=true)
-
+<hr>
+<p align=center>
+ <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=adicadi&show_icons=true&theme=gotham">
 <br><p align="right">![](https://visitor-badge.laobi.icu/badge?page_id=adicadi.adicadi)<br>
 
  
