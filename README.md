@@ -2,7 +2,7 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/adicadi/" title="LinkedIn Profile"><img width="22" src="https://github.com/adicadi/adicadi/blob/master/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/_adicadi_/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/_adicadi_/" title="Instagram Profile"><img width="22" src="https://github.com/adicadi/adicadi/blob/master/Instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
@@ -13,7 +13,7 @@
   <br>
   📚 I’m currently learning Flutter
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/adicadi/adicadi/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: adicadi158@gmail.com">adicadi158@gmail.com</a>
 </p>
