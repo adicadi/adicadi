@@ -25,7 +25,7 @@
 <br>
 <h4 align="center"><a href=https://github.com/adicadi?tab=repositories title="Show Repositories">🔎 Show More 🔍</a></h4>
 
-  <p align="right">![](https://visitor-badge.laobi.icu/badge?page_id=adicadi.adicadi)<br>
+<br><p align="right">![](https://visitor-badge.laobi.icu/badge?page_id=adicadi.adicadi)<br>
 
  
 
