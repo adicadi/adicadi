@@ -20,7 +20,7 @@
 
 <hr>
 <p align=center>
-    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=adicadi&show_icons=true&theme=gotham">
+    <img height=160 align="center" src="https://github-readme-stats-adicadi.vercel.app/api?username=adicadi&show_icons=true&theme=gotham">
 </p>
 <hr>
 <br>
