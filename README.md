@@ -24,10 +24,9 @@
     <img height=160 align="center" src="https://github-readme-stats-adicadi.vercel.app/api/top-langs/?username=adicadi&layout=compact&theme=gotham">
 </p>
 <hr>
-<br>
 <h4 align="center"><a href=https://github.com/adicadi?tab=repositories title="Show Repositories">🔎 Show More 🔍</a></h4>
 
-<br><p align="right">![](https://visitor-badge.laobi.icu/badge?page_id=adicadi.adicadi)<br>
+<p align="right">![](https://visitor-badge.laobi.icu/badge?page_id=adicadi.adicadi)<br>
 
  
 
