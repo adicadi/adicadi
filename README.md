@@ -25,8 +25,3 @@
 </p>
 <hr>
 <h4 align="center"><a href=https://github.com/adicadi?tab=repositories title="Show Repositories">🔎 Show More 🔍</a></h4>
-
-<p align="right"><src="https://visitor-badge.laobi.icu/badge?page_id=adicadi.adicadi"><br>
-
- 
-
