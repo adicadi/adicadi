@@ -20,8 +20,8 @@
 
 <hr>
 <p align=center>
-    <img height=160 align="center" src="https://https://github-readme-stats-hz5suchgt-adicadi.vercel.app//api?username=adicadi&show_icons=true&theme=gotham">
-    <img height=160 align="center" src="https://https://github-readme-stats-hz5suchgt-adicadi.vercel.app/api/top-langs/?username=adicadi&layout=compact&theme=gotham">
+    <img height=160 align="center" src="https://https://github-readme-stats-git-master-adicadi.vercel.app/api?username=adicadi&show_icons=true&theme=gotham">
+    <img height=160 align="center" src="https://https://github-readme-stats-git-master-adicadi.vercel.app/api/top-langs/?username=adicadi&layout=compact&theme=gotham">
 </p>
 <hr>
 <h4 align="center"><a href=https://github.com/adicadi?tab=repositories title="Show Repositories">🔎 Show More 🔍</a></h4>
