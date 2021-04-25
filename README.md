@@ -23,7 +23,6 @@
     <img height=160 align="center" src="https://github-readme-k4d188szz-adicadi.vercel.app/api?username=adicadi&show_icons=true&theme=gotham">
     <img height=160 align="center" src="https://github-readme-k4d188szz-adicadi.vercel.app/api/top-langs/?username=adicadi&layout=compact&theme=gotham">
 </p>-->
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adicadi)](https://github.com/anuraghazra/github-readme-stats&hide_title=true&show_icons=true&theme=gotham)
 
   <img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adicadi&hide_title=false&layout=compact&theme=gotham" />
 <hr>
