@@ -21,7 +21,7 @@
 <hr>
 
 <p align=center>
-    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=adicad&show_icons=true&theme=gotham">
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=adicadi&show_icons=true&theme=gotham">
     <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adicadi&layout=compact&theme=gotham">
 </p>
 
