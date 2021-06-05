@@ -9,15 +9,14 @@
   Hi, I'm Aditya Chaudhary, Android app developer from India
   <br>
   <br>
-  💻 I love writing code and learn anythings about it
-  <br>
   📚 I’m currently learning Flutter
+  <br>
+  💻 I love writing code and learn anythings about it
   <br>
   💬 Ask me anything about from <a href="https://github.com/adicadi/adicadi/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: adicadi158@gmail.com">adicadi158@gmail.com</a>
-  <br>
-  📫 How to reach me: <a href="https://www.linkedin.com/in/adicadi">@adicadi</a>
+  
 </p>
 
 <hr>
