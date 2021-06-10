@@ -27,7 +27,8 @@
 </p>
 
 <hr>
-<h4 align="center"><a href=https://activity-graph.herokuapp.com/graph?username=adicadi&theme=react-dark></a></h4>
+<p align=center>
+<img height= 160 align="center" src="https://activity-graph.herokuapp.com/graph?username=adicadi&theme=react-dark"></p>
 <hr>
 <h4 align="center"><a href=https://github.com/adicadi?tab=repositories title="Show Repositories">🔎 Show More 🔍</a></h4>
 
