@@ -22,8 +22,8 @@
 <hr>
 
 <p align=center>
-    <img height=160 align="center" src="https://github-readme-stats-h00db5uf2-adicadi.vercel.app/api?username=adicadi&show_icons=true&theme=gotham">
-    <img height=160 align="center" src="https://github-readme-stats-h00db5uf2-adicadi.vercel.app/api/top-langs/?username=adicadi&layout=compact&theme=gotham">
+    <img height=160 align="center" src="https://github-readme-stats-gilt-three-33.vercel.app/api?username=adicadi&show_icons=true&theme=gotham">
+    <img height=160 align="center" src="https://github-readme-stats-gilt-three-33.vercel.app/api/top-langs/?username=adicadi&layout=compact&theme=gotham">
 </p>
 
 <hr>
