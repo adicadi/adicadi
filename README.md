@@ -22,11 +22,11 @@
 <hr>
 
 <p>
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=adicadi&show_icons=true&theme=midnight-purple">
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=adicadi&show_icons=true&theme=midnight-purple">
    <img height = 250 width= 500 align="right" src = "https://user-images.githubusercontent.com/50004633/134459042-5df8ce97-03da-46f9-99df-8df3d48df26a.gif">
 </p>
 
-<img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=adicadi&layout=compact&theme=midnight-purple"/>
+<img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=adicadi&layout=compact&theme=midnight-purple"/>
 
 <hr>
 <!--<p align=center>
