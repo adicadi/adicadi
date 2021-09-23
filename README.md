@@ -22,7 +22,7 @@
 <hr>
 
 <p>
-    <img height=200px src="https://github-readme-stats.vercel.app/api?username=adicadi&show_icons=true&theme=midnight-purple">
+    <img height=200px width = 300 src="https://github-readme-stats.vercel.app/api?username=adicadi&show_icons=true&theme=midnight-purple">
    <img height = 250 width= 500 align="right" src = "https://user-images.githubusercontent.com/50004633/134459042-5df8ce97-03da-46f9-99df-8df3d48df26a.gif">
 </p>
 
