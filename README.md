@@ -23,7 +23,8 @@
 
 <p>
     <img height=160 align="left" src="https://github-readme-stats.vercel.app/api?username=adicadi&show_icons=true&theme=gotham">
-   <img height = 160 width= 500 align="right" src = "https://user-images.githubusercontent.com/50004633/134459042-5df8ce97-03da-46f9-99df-8df3d48df26a.gif">
+   <img height = 200 width= 500 align="right" src = "https://user-images.githubusercontent.com/50004633/134459042-5df8ce97-03da-46f9-99df-8df3d48df26a.gif">
+   <img height=160 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adicadi&layout=compact&theme=gotham"
 </p>
 <p align =left>
     <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adicadi&layout=compact&theme=gotham"
