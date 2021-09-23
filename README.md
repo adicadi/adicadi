@@ -23,10 +23,10 @@
 
 <p align=center>
     <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=adicadi&show_icons=true&theme=gotham">
-    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adicadi&layout=compact&theme=gotham">
+   <img height = 200 src = "https://user-images.githubusercontent.com/50004633/134459042-5df8ce97-03da-46f9-99df-8df3d48df26a.gif">
 </p>
-<p align =center>
-  <img height = 200 src = "https://user-images.githubusercontent.com/50004633/134459042-5df8ce97-03da-46f9-99df-8df3d48df26a.gif"
+<p align =left>
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adicadi&layout=compact&theme=gotham"
        </p>
 <hr>
 <!--<p align=center>
