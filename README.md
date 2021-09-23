@@ -28,7 +28,7 @@
     <!--<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adicadi&theme=gotham" />-->
 </p>
 <p align =center>
-  <img src = "![ddnm7kmznqd71](https://user-images.githubusercontent.com/50004633/134459042-5df8ce97-03da-46f9-99df-8df3d48df26a.gif)"
+  <img src = "https://user-images.githubusercontent.com/50004633/134459042-5df8ce97-03da-46f9-99df-8df3d48df26a.gif"
        </p>
 <hr>
 <!--<p align=center>
