@@ -2,7 +2,7 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/adicadi/" title="LinkedIn Profile"><img width="22" src="https://github.com/adicadi/adicadi/blob/master/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://twitter.com/_adicadi_/" title="Twitter Profile"><img width="22" src="https://github.com/adicadi/adicadi/blob/master/twitter.png"> Twitter</a></code>
+  <code><a href="https://twitter.com/_adicadi_/" title="Twitter Profile"><img width="22" src="https://github.com/adicadi/adicadi/blob/master/twitter.svg"> Twitter</a></code>
 </h5>
 <br>
 <p align="center">
