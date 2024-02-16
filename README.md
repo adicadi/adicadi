@@ -8,7 +8,7 @@
 <p align="center">
   Hi, I'm Aditya Chaudhary, 🤖 AI Enthusiast 
   <br>
-  🚀 | Currently diving deep into the world of Artificial Intelligence to achieve my goals | Passionate about leveraging technology to solve real-world problems | Open to collaboration and learning from fellow enthusiasts
+  🚀 | Currently diving deep into the world of Artificial Intelligence to achieve my goals | Passionate about leveraging technology to solve real-world problems 
   <br>
   <br>
   💻 I love writing code and learn anythings about it
