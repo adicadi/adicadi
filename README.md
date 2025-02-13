@@ -24,7 +24,7 @@
 <hr>
 
 <p>
-    <img height=200 width = 400 src="https://github-readme-stats.vercel.app/api?username=adicadi&show_icons=true&theme=midnight-purple">
+    <img height=200 width = 400 src="https://github-readme-stats.vercel.app/api?username=adicadi&show_icons=true&theme=transparent">
    <img height = 430 width= 300 align = right src = "https://user-images.githubusercontent.com/50004633/134461687-7281df45-15a4-47dd-8df4-15a2319d2001.gif">
   
 </p>
