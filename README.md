@@ -6,7 +6,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Aditya Chaudhary, 🤖 AI Enthusiast 
+  Hi, I'm Aditya Chaudhary, 🤖 AI Enthusiast, 💻 Flutter Developer
   <br>
   🚀 | Currently diving deep into the world of Artificial Intelligence to achieve my goals | Passionate about leveraging technology to solve real-world problems 
   <br>
