@@ -11,8 +11,6 @@
   🚀 | Currently diving deep into the world of Artificial Intelligence to achieve my goals | Passionate about leveraging technology to solve real-world problems 
   <br>
   <br>
-  💻 I love writing code and learn anythings about it
-  <br>
   📝 Open to collaboration and learning from fellow enthusiasts
   <br>
   💬 Ask me anything about from <a href="https://github.com/adicadi/adicadi/issues" title="Issues">Here</a>
