@@ -74,7 +74,7 @@ Working on specialized machine learning models including:
 </div>
 
 <div align="center">
-  <img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adicadi&theme=dark&hide_border=true)](https://git.io/streak-stats)"/>
+  <img src="[GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adicadi&theme=dark&hide_border=true)](https://git.io/streak-stats)"/>
 </div>
 
 ## 🎓 Current Focus
