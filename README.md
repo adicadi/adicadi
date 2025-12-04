@@ -66,17 +66,6 @@ Working on specialized machine learning models including:
 - Hybrid LLM implementations
 - Interactive data visualization projects
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adicadi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adicadi&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="[GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adicadi&theme=dark&hide_border=true)](https://git.io/streak-stats)"/>
-</div>
-
 ## 🎓 Current Focus
 
 - 🔬 Fine-tuning LLMs for specialized healthcare applications
